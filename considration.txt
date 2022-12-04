@@ -1,0 +1,6 @@
+auth feature must implement 
+with jwt token 
+and session base auth 
+must not a mandatory in server 
+session in backend must not be a 
+important actor on server 
