@@ -1,0 +1,4 @@
+for my opinion this library is a good choice 
+1 - jwt js 
+2 - express/session 
+3 - cookie setter 
